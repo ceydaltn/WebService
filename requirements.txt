@@ -1,0 +1,14 @@
+Flask
+waitress
+opencv-python
+numpy
+rembg
+scikit-image
+pandas
+opencv-python
+numpy
+rembg
+scikit-image
+easygui
+Pillow
+matplotlib
